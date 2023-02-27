@@ -1,6 +1,6 @@
 - Hi, 👋 I’m @visincito
 
-<i class="fa fa-eye fa-fw"></i>
+
 
 ```
 
@@ -8,3 +8,5 @@
 interests=!all,pbx,asterisk,linux,networking,python
 
 ``` 
+
+![Minion](https://octodex.github.com/images/minion.png =200x200)
