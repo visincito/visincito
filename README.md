@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @visincito
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, 👋 I’m @visincito
 
-<!---
-visincito/visincito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![image](https://user-images.githubusercontent.com/59263516/221670984-faa7f878-583b-47df-991a-2ab0a70959bd.png)
+
