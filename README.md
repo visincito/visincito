@@ -9,4 +9,4 @@ interests=!all,pbx,asterisk,linux,networking,python
 
 ``` 
 
-![Minion](https://octodex.github.com/images/minion.png =200x200)
+[Minion](https://octodex.github.com/images/minion.png =200x200)
